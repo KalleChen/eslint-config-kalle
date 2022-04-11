@@ -6,6 +6,13 @@
   "repository": "https://github.com/KalleChen/eslint-config-kalle.git",
   "author": "Kalle Chen <kallechen.tw@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "javascript",
+    "typescript",
+    "eslint",
+    "prettier",
+    "config"
+  ],
   "peerDependencies": {
     "@babel/core": "^7.17.5",
     "@babel/eslint-parser": "^7.17.0",
