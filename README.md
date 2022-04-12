@@ -22,7 +22,7 @@ module.exports = {
   extends: ['kalle/typescript']
 }
 ```
-3. If you want to formate with `prettier`, you should create a `.prettirerc.js` file. It should look like this:
+3. If you want to format with `prettier`, you should create a `.prettirerc.js` file. It should look like this:
 ```
 module.exports = {
   trailingComma: 'es5',
