@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-kalle",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ESLint and Prettier Config from Kalle Chen",
   "main": "index.js",
   "repository": "https://github.com/KalleChen/eslint-config-kalle.git",
