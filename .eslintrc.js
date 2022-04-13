@@ -38,10 +38,7 @@ module.exports = {
     'prettier/prettier': [
       'error',
       {
-        trailingComma: 'es5',
-        singleQuote: true,
-        printWidth: 80,
-        semi: false,
+        usePrettierrc: true,
       },
     ],
     'react/react-in-jsx-scope': 'off',
